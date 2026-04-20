@@ -1,10 +1,10 @@
 
-# 0-erack | Technical Stack & Specs 🛠️
+# RackDev, thats me!
 
 I am a Fullstack and apps developer with emphasis on Backend and data.
 I also make scripting references of multiple technologies in spanish.
 
-### 📂 My stack
+### My stack
 
 <details>
 <summary><b> Backend Development</b></summary>
